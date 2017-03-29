@@ -1,0 +1,7 @@
+2017/03/29 13:01:30.447439750 | main.go:24 func:main.show  info [2323] 
+2017/03/29 13:08:17.715679729  | main.go:24 func:main.show info [2323] 
+2017/03/29 13:08:22.610675513  | main.go:24 func:main.show info [2323] 
+2017/03/29 13:25:44.360280690  | main.go:27 func:main.show info [2323] 
+2017/03/29 13:55:05.937856077 | base_fredis.go:47 func:fantasy/internal.(*FRedis).conn_nil redis:  error [redis conn is nil] 
+2017/03/29 13:55:35.677947914 redis:  | base_fredis.go:47 func:fantasy/internal.(*FRedis).conn_nil error [redis conn is nil] 
+2017/03/29 13:55:36.945095213 | base_fredis.go:47 func:fantasy/internal.(*FRedis).conn_nil redis:  error [redis conn is nil] 
